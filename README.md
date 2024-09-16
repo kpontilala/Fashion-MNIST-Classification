@@ -24,4 +24,4 @@ Make predictions for at least two images from the Fashion MNIST dataset.
 <li>The compile function preps the model for training by setting it's optimizer, the loss parameter and the evaluation parameter</li>
 <li>The Model is then trained</li>
 <li>The accuracy of the data is evaluated by checking how many images it can properly classify</li>
-<li></li>
+
